@@ -79,7 +79,7 @@ In this section, you'll explain the pictures of the data set and Data Points ext
 
   ```excel
   =QUERY(A:H, "SELECT A,B ")
-  ---
+---
 3) ![Picture 1](https://github.com/Demmymoney/GOOGLE-QUERY-PROJECT/blob/main/GITHUB%203.png)
 *This image shows the four Data Points extracted using the QUERY functions below:*
 
@@ -90,9 +90,73 @@ In this section, you'll explain the pictures of the data set and Data Points ext
   ```excel
   =QUERY(A:H, "SELECT B,C WHERE B ='Richard' OR B= 'Matthew'", 1)
   
-- ii) Only Sales_rep "Richard" and Region Data Point was extracted using the Query function;
+- ii) Region with Only Sales_rep "Richard" Data Point was extracted using the Query function;
 
   ```excel
   =QUERY(A:H, "SELECT A,B WHERE B = 'Richard' ",1)
 
-  
+- iii) Items sold in 2014 Data Point was extracted using Query function;
+
+  ```excel
+  =QUERY(A1:H44, "SELECT C,F,H WHERE F='2014'",1)
+
+- iv) Sales made in 2015 Data Point was extracted using the Query function;
+
+  ```excel
+  =QUERY(A1:H44, "SELECT A,F,H WHERE F = '2015'", 1)
+---
+4) ![Picture 1](https://github.com/Demmymoney/GOOGLE-QUERY-PROJECT/blob/main/GITHUB%204.png)
+*This image shows the four Data Points extracted using the QUERY functions below:*
+
+- **Fourth Example QUERY Function**:
+
+- i) Region where "Binder" and "Pen" were sold in 2014 Data Point was extracted using the Query function;
+
+  ```excel
+  =QUERY(A1:H44, "SELECT A, C, F WHERE (C = 'Binder' OR C = 'Pen') AND F = '2014' ", 1)
+
+- ii) "East" Region sales in 2014 & 2015 Data Point was extracted using the Query function;
+
+  ```excel
+  =QUERY(A1:H,"SELECT A,F,H WHERE A = 'East' ",1)
+
+- iii) Sales of "Binder" and "Pencil" in 2015 Data Point was extracted using the Query function;
+
+  ```excel
+  =QUERY(A:H, "SELECT C,F,H WHERE (C = 'Binder' OR C = 'Pencil') AND F = '2015'",1)
+
+- iv) Sales in "Central" and "East" Region in 2014 Data Point was extracted using Query function;
+
+  ```excel
+  =QUERY(A:H, "SELECT A,F ,H WHERE ( A = 'Central' OR A = 'East') AND F = '2014'",1 )
+---
+5) ![Picture 1](https://github.com/Demmymoney/GOOGLE-QUERY-PROJECT/blob/main/GITHUB%205.png)
+*This image shows the five Data Points extracted using the QUERY functions below:*
+
+- **Fifth Example QUERY Function**:
+
+- i) Sales in "Aug" and "Sep" in 2014 Data Point was extracted using Query function;
+
+  ```excel
+  =QUERY(A:H, "SELECT E, F, H WHERE (E = 'Aug' OR E = 'Sep') AND F = '2014'", 1)
+
+- ii) Sales made by "Richard" in 2014 from highest to lowest order Data Point was extracted using the Query function;
+
+  ```excel
+  =QUERY(A:H,"SELECT B,H,F WHERE B = 'Richard' AND F = '2014' ORDER BY H DESC",1)
+
+- iii) Item sold on the fourth day of the seventh and twelfth month in 2014 Data Point was extracted using Query function;
+
+  ```excel
+  =QUERY(A:H,"SELECT C, D, E, F WHERE D LIKE '%_04%' AND (E = 'Jul' OR E = 'Dec') AND F = '2014'",1)
+
+- iv) Region where the Sales_rep name starts with the letter "R" Data Point was extracted using the Query function;
+
+  ```excel
+  =QUERY(A:H, "SELECT A,B WHERE B LIKE 'R%'",1)
+ 
+- v) Item sold by Sales_rep with "an" in their name Data Point was extracted using the Query function;
+
+  ```excel
+  =QUERY(A:H,"SELECT B,C WHERE B LIKE '%an%'",1)
+
