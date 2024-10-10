@@ -130,7 +130,7 @@ In this section, you'll explain the pictures of the data set and Data Points ext
   ```excel
   =QUERY(A:H, "SELECT A,F ,H WHERE ( A = 'Central' OR A = 'East') AND F = '2014'",1 )
 ---
-5) ![Picture 1](https://github.com/Demmymoney/GOOGLE-QUERY-PROJECT/blob/main/GITHUB%205.png)
+5) ![Picture 1]﻿https://github.com/Demmymoney/GOOGLE-QUERY-PROJECT/blob/main/GITHUB%205.png
 *This image shows the five Data Points extracted using the QUERY functions below:*
 
 - **Fifth Example QUERY Function**:
