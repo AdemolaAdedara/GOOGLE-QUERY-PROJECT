@@ -35,6 +35,12 @@ This project is designed to provide hands-on experience with Google Sheets' QUER
 ---
 git clone https://github.com/Demmymoney/google-query-project.git
 
-### Usuage
+### Usage
 ---
+In this section, you'll explain the pictures of the examples to demonstrate how to effectively use the QUERY function in Google Sheets.
 
+Example Queries
+
+Picture 1 ; 
+
+ - 
