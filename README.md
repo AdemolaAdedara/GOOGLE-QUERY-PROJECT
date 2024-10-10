@@ -37,14 +37,26 @@ git clone https://github.com/Demmymoney/google-query-project.git
 
 ## Prerequisites
 ---
-Make sure you have access to Google Sheets and a Google account to test the QUERY functio
+Make sure you have access to Google Sheets and a Google account to test the QUERY function
 
 ### Usage
 ---
 In this section, you'll explain the pictures of the examples to demonstrate how to effectively use the QUERY function in Google Sheets.
 
-Example Queries
+### Example Queries
 
-Picture 1 ; 
+1) ![Picture 1](https://github.com/Demmymoney/GOOGLE-QUERY-PROJECT/blob/main/GITHUB%201.png)
+*This image shows the raw data used in the examples. Beside it are the first two data points extracted using the QUERY functions:*
 
- - 
+- **Example QUERY Function**:
+  
+- i) The region, sales_rep, and items were extracted using the following Query function:
+
+  ```excel
+  = QUERY(A:H, "SELECT A, B, C", 1)
+
+- ii) The region, year, and sales were extracted using the following Query function
+
+  ```excel
+  = QUERY(A:H, "SELECT A, F, H", 1)
+
