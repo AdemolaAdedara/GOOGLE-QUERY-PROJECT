@@ -2,7 +2,7 @@
 ---
 ### Overview
 ---
-This project is designed to provide hands-on experience with Google Sheets' QUERY function, a powerful tool for data filtering, sorting, and aggregation. This repository contains practical examples and exercises to help users learn how to harness the capabilities of the QUERY function for data analysis within Google Sheets.
+This project is designed to provide hands-on experience with Google Sheets' QUERY function, a powerful tool for data filtering, sorting, and aggregation. This repository contains practical data sets to help users learn how to harness the capabilities of the QUERY function for data analysis within Google Sheets.
 
 ----
 
@@ -19,7 +19,7 @@ This project is designed to provide hands-on experience with Google Sheets' QUER
   
 - [Project Structure](#project-structure)
 
-## Features
+### Features
 ---
 - **Data Filtering**: Learn to filter data by various criteria, including dates, text, and numbers.
 
@@ -31,6 +31,10 @@ This project is designed to provide hands-on experience with Google Sheets' QUER
 
 - **Data Transformation**: Transform data by combining columns or extracting subsets based on criteria.
 
-## Getting Started
+### Getting Started
+---
+git clone https://github.com/Demmymoney/google-query-project.git
+
+### Usuage
 ---
 
