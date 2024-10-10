@@ -35,7 +35,7 @@ This project is designed to provide hands-on experience with Google Sheets' QUER
 ---
 git clone https://github.com/Demmymoney/google-query-project.git
 
-## Prerequisites
+### Prerequisites
 ---
 Make sure you have access to Google Sheets and a Google account to test the QUERY function
 
@@ -44,7 +44,7 @@ Make sure you have access to Google Sheets and a Google account to test the QUER
 In this section, you'll explain the pictures of the examples to demonstrate how to effectively use the QUERY function in Google Sheets.
 
 ### Example Queries
-
+---
 1) ![Picture 1](https://github.com/Demmymoney/GOOGLE-QUERY-PROJECT/blob/main/GITHUB%201.png)
 *This image shows the raw data used in the examples. Beside it are the first two data points extracted using the QUERY functions:*
 
@@ -59,4 +59,5 @@ In this section, you'll explain the pictures of the examples to demonstrate how 
 
   ```excel
   = QUERY(A:H, "SELECT A, F, H", 1)
-
+---
+2) 
