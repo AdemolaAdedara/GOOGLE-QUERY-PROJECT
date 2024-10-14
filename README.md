@@ -38,7 +38,7 @@ This project is designed to provide hands-on experience with Google Sheets' QUER
 
 ### Getting Started
 ---
-git clone https://github.com/Demmymoney/google-query-project.git
+git clone https://github.com/AdemolaAdedara/google-query-project.git
 
 ---
 
