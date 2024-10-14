@@ -72,7 +72,7 @@ In this section, I explained the pictures of the data set and Data Points extrac
 1) ![Picture 1](https://github.com/Demmymoney/GOOGLE-QUERY-PROJECT/blob/main/GITHUB%201.png)
 *This image shows the raw data used in the examples. Beside it are the first two Data Points extracted using the QUERY functions below:*
 
-- **Example QUERY Function**:
+- **First Example QUERY Function**:
   
 - i) The Region, Sales_rep, and Item Data Point was extracted using the following Query function;
 
