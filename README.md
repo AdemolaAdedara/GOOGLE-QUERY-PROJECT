@@ -13,6 +13,10 @@ This project is designed to provide hands-on experience with Google Sheets' QUER
 - [Features](#features)
 
 - [Getting Started](#getting-started)
+
+- [Data Source](#Data-Source)
+
+- [Tool Used](#Tool-Used)
   
 - [Usage](#usage)
   - [Example Queries](#example-queries)
