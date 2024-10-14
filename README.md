@@ -17,7 +17,7 @@ This project is designed to provide hands-on experience with Google Sheets' QUER
 - [Usage](#usage)
   - [Example Queries](#example-queries)
   
-- [Project Structure](#project-structure)
+---
 
 ### Features
 ---
@@ -31,19 +31,27 @@ This project is designed to provide hands-on experience with Google Sheets' QUER
 
 - **Data Transformation**: Transform data by combining columns or extracting subsets based on criteria.
 
+---
+
 ### Getting Started
 ---
 git clone https://github.com/Demmymoney/google-query-project.git
+
+---
 
 ### Prerequisites
 ---
 Make sure you have access to Google Sheets and a Google account to test the QUERY function
 
+---
+
 ### Usage
 ---
 In this section, you'll explain the pictures of the data set and Data Points extracted to demonstrate how to effectively use the QUERY function in Google Sheets.
 
-### Example Queries
+---
+
+#### Example Queries
 ---
 1) ![Picture 1](https://github.com/Demmymoney/GOOGLE-QUERY-PROJECT/blob/main/GITHUB%201.png)
 *This image shows the raw data used in the examples. Beside it are the first two Data Points extracted using the QUERY functions below:*
@@ -159,4 +167,6 @@ In this section, you'll explain the pictures of the data set and Data Points ext
 
   ```excel
   =QUERY(A:H,"SELECT B,C WHERE B LIKE '%an%'",1)
+
+
 
