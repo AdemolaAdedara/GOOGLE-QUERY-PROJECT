@@ -17,6 +17,9 @@ This project is designed to provide hands-on experience with Google Sheets' QUER
 - [Usage](#usage)
   - [Example Queries](#example-queries)
   
+- [Findings and Insights](#Findings-and-Insights)
+
+- 
 ---
 
 ### Features
@@ -168,5 +171,8 @@ In this section, I explained the pictures of the data set and Data Points extrac
   ```excel
   =QUERY(A:H,"SELECT B,C WHERE B LIKE '%an%'",1)
 
+---
+
+### Finding and Insights
 
 
