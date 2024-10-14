@@ -47,7 +47,7 @@ Make sure you have access to Google Sheets and a Google account to test the QUER
 
 ### Usage
 ---
-In this section, you'll explain the pictures of the data set and Data Points extracted to demonstrate how to effectively use the QUERY function in Google Sheets.
+In this section, I explained the pictures of the data set and Data Points extracted to demonstrate how to effectively use the QUERY function in Google Sheets.
 
 ---
 
