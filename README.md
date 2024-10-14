@@ -19,7 +19,8 @@ This project is designed to provide hands-on experience with Google Sheets' QUER
   
 - [Findings and Insights](#Findings-and-Insights)
 
-- 
+- [Conclusion(#Conclusions)
+
 ---
 
 ### Features
