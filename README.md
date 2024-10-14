@@ -174,6 +174,23 @@ In this section, I explained the pictures of the data set and Data Points extrac
 
 ---
 
-### Finding and Insights
+### Findings and Insights
+---
+In this project, several insights emerged from analyzing the sales data using the Google Sheets QUERY function. Here are some key findings:
+
+- **Sales Patterns**: Sales were generally higher in the latter half of the year, particularly in **July**, **September**, and **December**. Seasonal trends were observed, indicating that holidays and year-end events boost sales.
+
+- **Sales Representative Performance**: Richard consistently made the highest sales, especially in the **East** region. This suggests a potential high-performance territory for targeted marketing efforts.
+
+- **Product Demand**: Items like **Pens** and **Binders** were popular, while demand for **Desks** was limited to specific periods, indicating an opportunity to explore product promotion strategies.
+
+- **Region-wise Sales**: The **East** region outperformed others, possibly due to higher market penetration or established customer relationships.
+
+### Conclusion
+---
+The Google Sheets QUERY function offers a robust platform for data analysis, enabling users to filter, aggregate, and gain actionable insights. This project demonstrated its versatility and power for discovering patterns and trends in sales data. With practical exercises and real-world applications, this project serves as a foundation for more advanced data analysis endeavors using Google Sheets. The insights gained here can guide business decisions, optimize marketing strategies, and improve product offerings for target markets.
+
+
+
 
 
