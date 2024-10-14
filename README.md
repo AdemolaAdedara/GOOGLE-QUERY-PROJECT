@@ -14,16 +14,16 @@ This project is designed to provide hands-on experience with Google Sheets' QUER
 
 - [Getting Started](#getting-started)
 
-- [Data Source](#Data-Source)
+- [Data Source](#data-source)
 
-- [Tool Used](#Tool-Used)
+- [Tools Used](#tools-used)
   
 - [Usage](#usage)
   - [Example Queries](#example-queries)
   
-- [Findings and Insights](#Findings-and-Insights)
+- [Findings and Insights](#findings-and-insights)
 
-- [Conclusion](#Conclusions)
+- [Conclusion](#conclusion)
 
 ---
 
@@ -47,9 +47,17 @@ git clone https://github.com/AdemolaAdedara/google-query-project.git
 
 ---
 
-### Prerequisites
+### Data Source
 ---
-Make sure you have access to Google Sheets and a Google account to test the QUERY function
+The dataset used in this project is a sales record, detailing information about regions, sales representatives, items sold, order dates, and total sales. It provides a comprehensive basis for practicing data analysis techniques using the QUERY function in Google Sheets.
+
+### Tools Used
+---
+- **Google Sheets**: Primary tool used for data manipulation, filtering, and aggregation.
+  
+- **Google Sheets QUERY Function**: Utilized for extracting, filtering, sorting, and aggregating data efficiently.
+  
+- **GitHub**: For sharing and documenting the project, including visual examples and code snippets.
 
 ---
 
