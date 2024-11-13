@@ -63,7 +63,7 @@ The dataset used in this project is a sales record, detailing information about 
 
 ### Usage
 ---
-In this section, I explained the pictures of the data set and Data Points extracted to demonstrate how to effectively use the QUERY function in Google Sheets.
+In this section, I explained the pictures of the data set and data Points extracted to demonstrate how to effectively use the QUERY function in Google Sheets.
 
 ---
 
