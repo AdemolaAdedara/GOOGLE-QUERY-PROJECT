@@ -49,7 +49,8 @@ git clone https://github.com/AdemolaAdedara/google-query-project.git
 
 ### Data Source
 ---
-The dataset used in this project is a sales record, detailing information about regions, sales representatives, items sold, order dates, and total sales. It provides a comprehensive basis for practicing data analysis techniques using the QUERY function in Google Sheets.
+The dataset used in this project is a sales record, detailing information about regions, sales representatives, items sold, order dates, and total sales. It provides a comprehensive basis for practicing data analysis techniques using the QUERY function in Google Sheets. [Download Here](https://docs.google.com/spreadsheets/d/158cGx0QBC9slMJy1mLleq9cG1RfCNdWB0P972kzX1u0/edit?gid=1689008765#gid=1689008765)
+
 
 ### Tools Used
 ---
